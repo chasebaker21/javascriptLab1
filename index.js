@@ -48,7 +48,7 @@ while(true) {
         
 
     } else {
-      console.log("5 === 5. it took " + counter + " iterations to randomly generate the number 5.")
+      console.log( randomNumber + " === 5. it took " + counter + " iterations to randomly generate the number 5.")
       counter++;
       break;
     }
